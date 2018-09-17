@@ -12,5 +12,17 @@
 			<directory>msbin/</directory>
 			<outputDirectory>bin</outputDirectory>
 		</fileSet>
+		<fileSet>
+			<directory>schemas/</directory>
+			<outputDirectory>mtconnect/schemas</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<directory>styles</directory>
+			<outputDirectory>mtconnect/styles</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<directory>msfusion/assets</directory>
+			<outputDirectory>mtconnect/assets</outputDirectory>
+		</fileSet>
 	</fileSets>
 </assembly>
